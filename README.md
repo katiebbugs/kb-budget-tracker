@@ -8,8 +8,6 @@ This PWA app is to assist those that want to track their withdrawals and deposit
 
 [Deployed Site - Heroku](https://kb-budget-tracker.herokuapp.com/)
 
-https://kb-budget-tracker.herokuapp.com/
-
 ## Table of Contents
 
 * [Installation](#installation)
