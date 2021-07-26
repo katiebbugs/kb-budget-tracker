@@ -13,7 +13,7 @@ https://kb-budget-tracker.herokuapp.com/
 ## Table of Contents
 
 * [Installation](#installation)
-* * [Tech](#tech)
+* [Tech](#tech)
 
 ## Instructions
 
